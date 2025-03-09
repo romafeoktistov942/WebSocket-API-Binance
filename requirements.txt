@@ -15,9 +15,11 @@ cryptography==44.0.2
 daphne==4.1.2
 Django==5.1.6
 djangorestframework==3.15.2
+drf-yasg==1.21.9
 hyperlink==21.0.0
 idna==3.10
 incremental==24.7.2
+inflection==0.5.1
 iniconfig==2.0.0
 msgpack==1.1.0
 Naked==0.1.32
@@ -29,8 +31,10 @@ pyasn1_modules==0.4.1
 pycparser==2.22
 pyOpenSSL==25.0.0
 pytest==8.3.5
+pytest-asyncio==0.25.3
 pytest-django==4.10.0
 python-dotenv==1.0.1
+pytz==2025.1
 PyYAML==6.0.2
 redis==5.2.1
 requests==2.32.3
@@ -41,6 +45,7 @@ sqlparse==0.5.3
 Twisted==24.11.0
 txaio==23.1.1
 typing_extensions==4.12.2
+uritemplate==4.1.1
 urllib3==2.3.0
 websockets==15.0
 zope.interface==7.2
